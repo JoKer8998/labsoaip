@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\brother\Desktop\лаба 6\Project2\Project2\Source.c(9,21): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\brother\Desktop\лаба 6\Project2\Project2\Source.c(62,15): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\brother\Desktop\лаба 6\Project2\Project2\Source.c(102,26): warning C4047: !=: "int" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\brother\Desktop\лаба 6\Project2\Project2\Source.c(102,19): warning C4552: "!=": результат выражения не используется
+  Project2.vcxproj -> C:\Users\brother\Desktop\лаба 6\Project2\Debug\Project2.exe
